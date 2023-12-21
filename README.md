@@ -17,10 +17,14 @@ requirements:
 1. Database Design (Normalization):
 2. Data Definition Language (DDL):
 3. Data Manipulation Language (DML):
+
+   
    a. Insert at least 10 sample records into each of the following tables
+
+   
    b. DML Query
-4. Joins:
-5. Aggregate Functions and Subqueries:
+5. Joins:
+6. Aggregate Functions and Subqueries:
 
    
 
